@@ -1,0 +1,6 @@
+
+@theme "/usr/share/rofi/themes/dmenu.rasi"
+
+configuration {
+modes: "window,drun,run,ssh,emoji";
+}

@@ -1,0 +1,80 @@
+window#waybar {
+	background-color: transparent;
+	color: #cba6f7;
+	padding: 0px 0px;
+	/* border-radius: 2px */
+}
+
+#workspaces button {
+	color: #ea9a97;
+}
+
+#workspaces {
+	background-color: #232136;
+	border-radius: 2px;
+	color: #eb6f92;
+	padding: 0px 8px;
+}
+
+#cpu {
+	background-color: #232136;
+	border-radius: 2px;
+	color: #eb6f92;
+	padding: 0px 8px;
+}
+
+#memory {
+	background-color: #232136;
+	border-radius: 2px;
+	color: #eb6f92;
+	padding: 0px 8px;
+}
+
+#temperature {
+	background-color: #232136;
+	border-radius: 2px;
+	color: #f6c177;
+	padding: 0px 8px;
+}
+
+#window {
+	background-color: #232136;
+	border-radius: 2px;
+	color: #9ccfd8;
+	padding: 0px 8px;
+}
+
+#mpd {
+	background-color: #232136;
+	border-radius: 2px;
+	color: #ea9a97;
+	padding: 0px 8px;
+}
+
+#pulseaudio {
+	background-color: #232136;
+	border-radius: 2px;
+	color: #3e8fb0;
+	padding: 0px 8px;
+}
+
+#language {
+	background-color: #232136;
+	border-radius: 2px;
+	color: #f6c177;
+	padding: 0px 8px;
+}
+
+#clock {
+	background-color: #232136;
+	border-radius: 2px;
+	color: #9ccfd8;
+	padding: 0px 8px;
+}
+
+#network {
+	background-color: #232136;
+	border-radius: 2px;
+	color: #9ccfd8;
+	padding: 0px 8px;
+}
