@@ -4,5 +4,4 @@ The main features are:
 - Rose-pine as a colorscheme
 - Neovim with things such as autocompletion and syntax highlighting
 - Ghostty as a terminal emulator
-- Fish shell
 - And a lot more that I probably forgot about
