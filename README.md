@@ -1,4 +1,7 @@
 I'm currently in the process of rewriting my entire config, so this repository will be a way to keep track of everything I do, and allow other people to use it! If you do end up using them, I really hope you like them!
+
+My configuration is heavily based off of theprimeagen's hyprland config, so if you like his I think you'll like mine! (no previews yet >:3)
+
 The main features are:
 - Configurations for the colemak-dh layout
 - Rose-pine as a colorscheme
