@@ -5,11 +5,11 @@ return {
 			styles = {
 				bold = false,
 				italic = false,
-				transparency = false,
+				transparency = true,
 			},
 			palette = {
 				moon = {
-					-- base = '#000000',
+					base = '#000000',
 				},
 			},
 		})

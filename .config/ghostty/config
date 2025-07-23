@@ -43,3 +43,5 @@
 # resize-overlay-duration = 4s 200ms
 theme = rose-pine-moon
 shell-integration-features = no-cursor
+background-opacity = 0.83
+background = 000000
