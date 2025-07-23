@@ -5,3 +5,8 @@ The main features are:
 - Neovim with things such as autocompletion and syntax highlighting
 - Ghostty as a terminal emulator
 - And a lot more that I probably forgot about
+
+My future plans are:
+- [ ] Make an install script
+- [ ] Make a theme switcher script
+- [ ] Improve some things about my waybar config
